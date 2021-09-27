@@ -48,3 +48,18 @@ button{
     cursor:pointer;
 }
 
+@media (min-width: 800px) {
+
+    .logo{
+        width:60%;
+    }
+
+    button{
+        font-size: 30px;
+    }
+
+    .main p, .main h1 {
+        font-size: 2em;
+    }
+
+}
